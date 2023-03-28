@@ -1,2 +1,2 @@
-print('sample commit change')
+print('sample new change')
 
