@@ -1,1 +1,1 @@
-# demo-go-app
+# demo-go
