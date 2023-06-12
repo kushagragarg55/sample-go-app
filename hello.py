@@ -1,2 +1,2 @@
-print('sample new change,ce')
+print('sample nenge,ce')
 00000
